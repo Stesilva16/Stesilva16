@@ -1,6 +1,8 @@
  👋 Hellow, eu sou a Sté!
 
-🌱 Eu estou meergulhando nesse mundo sobre Tecnologia e programação e eu estou amando! 
+🌱 Estou mergulhando nesse mundo sobre Tecnologia e programação e eu estou amando!
+
+
 
 <div align="center">
   <a href="https://github.com/Stesilva16">
