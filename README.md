@@ -1,6 +1,6 @@
  👋 Hello, eu sou a Sté!
 
-🌱 Estou mergulhando nesse mundo sobre Tecnologia e programação e eu estou amando!
+🌱 
 
 
 
