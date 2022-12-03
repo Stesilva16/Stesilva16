@@ -1,6 +1,18 @@
  👋 Hello, eu sou a Sté!
 
-🌱 
+ 🎓 Sou formada  em Eng.Civil e fiz dois Técnicos em Administração e em Edificações. Hoje estudo cursos voltados a área de tecnologia. 
+
+ 💜 Me deparei com a área de TI através da indicação de uma amiga. Desde de então estou apaixonada e estudando cada vez mais para a transição, pois é algo que eu almejo e me vejo me desenvolvendo cada vez mais. 
+
+ 🌱 Desenvolvo pequenos projetos com HTML, CSS e JavaScript. 
+
+ 🌱 Hoje estou focada em desenvolver mais habilidades na área de dados. Estou estudando sobre Python, SQL, NoSql, MySql, Mongos, cloud GCP, etcs. 
+
+ 🎦 Amo ler livros, assistir séries de ficção científica.
+
+  Me considero uma curiosa nata, amo aprender e reaprender coisas novas! 📎
+
+
 
 
 
