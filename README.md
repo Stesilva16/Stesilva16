@@ -4,7 +4,7 @@
 
  💜 Me deparei com a área de TI através da indicação de uma amiga. Desde de então estou apaixonada e estudando cada vez mais para a transição, pois é algo que eu almejo e me vejo me desenvolvendo cada vez mais. 
 
- 🌱 Desenvolvo pequenos projetos com HTML, CSS e JavaScript. 
+ 🌱 Desenvolvo pequenos projetos com HTML, CSS, JavaScript e Java. 
 
  🌱 Hoje estou focada em desenvolver mais habilidades na área de dados. Estou estudando sobre Python, SQL, NoSql, MySql, Mongos, cloud GCP, etcs. 
 
