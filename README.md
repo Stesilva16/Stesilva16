@@ -19,8 +19,6 @@ Me formei em Engenharia Civil, mas minha paixão pela tecnologia me levou a segu
 <h4>FORMAÇÃO ACADÊMICA</h4> 
 
 **Engenharia Civil**  – *Universidade São Francisco (Usf)*<br /> 
-**Técnico Edificações** – *Colégio Populus*<br /> 
-**Técnico Administração** – *ETEC*<br /> 
 
 **IDIOMAS**
 
