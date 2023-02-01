@@ -1,31 +1,71 @@
- 👋 Hello, eu sou a Sté!
+<h2 align="center">Hi, Stefany Gracy aqui!  👋 </h2>
 
- 🎓 Sou formada  em Eng.Civil e fiz dois Técnicos em Administração e em Edificações. Hoje estudo cursos voltados a área de tecnologia. 
+Sou uma pessoa curiosa desde pequena que desenvolveu sua paixão por aprender. <br /> 
+Me formei em Engenharia Civil, mas minha paixão pela tecnologia me levou a seguir carreira na área.
 
- 💜 Me deparei com a área de TI através da indicação de uma amiga. Desde de então estou apaixonada e estudando cada vez mais para a transição, pois é algo que eu almejo e me vejo me desenvolvendo cada vez mais. 
+<h3 align="center"> Formação e cursos</h3>
 
- 🌱 Desenvolvo pequenos projetos com HTML, CSS, JavaScript e Java. 
+<h4>FORMAÇÃO TECH</h4> 
 
- 🌱 Hoje estou focada em desenvolver mais habilidades na área de dados. Estou estudando sobre Python, SQL, NoSql, MySql, Mongos, cloud GCP, etcs. 
+**Plataforma AWS** - *Escola da Nuvem* <br /> 
+**Bootcamp Engenharia de Dados** - *SoulCode Academy* <br /> 
+**Fullstack Developer Junior** - *Tech Academy* <br /> 
+**Formações em Front-end** - *Alura* <br /> 
+**Formações em Programação** - *Alura* <br /> 
+**CC50: Introdução à Ciência da Computação - O Curso de Harvard, no Brasil** -  *Fundação Estudar* <br /> 
+**Programação para iniciantes**– *Alura* <br /> 
+**Bootcamp CodGirlsSantander** – *Dio*  <br /> 
 
- 🎦 Amo ler livros, assistir séries de ficção científica.
+<h4>FORMAÇÃO ACADÊMICA</h4> 
 
-  Me considero uma curiosa nata, amo aprender e reaprender coisas novas! 📎
+**Engenharia Civil**  – *Universidade São Francisco (Usf)*<br /> 
+**Técnico Edificações** – *Colégio Populus*<br /> 
+**Técnico Administração** – *ETEC*<br /> 
+
+**IDIOMAS**
+
+**Inglês** – Intermediário
+
+ 
+<h3 align="center"> Habilidades e Competências </h3>
+
+Google Cloud Plataform (GCP) | Python | Pandas | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query 
+Compute Engine | Looker Studio
 
 
+  <h3 align="center"> Estudando e aprofundando </h3>
+AWS | Azure | Google Cloud Plataform (GCP) |Java | Spark | SQL | NoSQL | ETL | Big Query 
+Compute Engine | Looker Studio | PowerBi | HTML | CSS | JavaScript  <br /> 
 
+<br /> 
+<br /> 
 
 
 <div align="center">
   <a href="https://github.com/Stesilva16">
-  <! -- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stesilva16&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stesilva16&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stesilva16&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ 
+ 
+ <div style="display: inline_block"><br>
+  <p align="center"> <a href="https://github.com/Stesilva16" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Ste-Js" width="40" height="30"/> </a>
+ <img alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
+   </p>
+</div>
+ 
+ 
+ 
+ <p align="center"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+</div>
+
+<div>
+  <p align="center"> <a href = "stefany.silva2020.16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/stefanygbsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
   
 ##
