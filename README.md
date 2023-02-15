@@ -1,4 +1,4 @@
-<h2 align="center">Hi, Stefany Gracy aqui!  👋 </h2>
+<h2 align="center">Hi, Stefany Gracy aqui!  🖖🏻 </h2>
 
 Sou uma pessoa curiosa desde pequena que desenvolveu sua paixão por aprender. <br /> 
 Me formei em Engenharia Civil, mas minha paixão pela tecnologia me levou a seguir carreira na área.
