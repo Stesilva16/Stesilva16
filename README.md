@@ -2,28 +2,6 @@
 
 Sou uma pessoa curiosa desde pequena que desenvolveu sua paixão por aprender. <br /> 
 Me formei em Engenharia Civil, mas minha paixão pela tecnologia me levou a seguir carreira na área.
-
-<h3 align="center"> Formação e cursos</h3>
-
-<h4>FORMAÇÃO TECH</h4> 
-
-**Plataforma AWS** - *Escola da Nuvem* <br /> 
-**Bootcamp Engenharia de Dados** - *SoulCode Academy* <br /> 
-**Fullstack Developer Junior** - *Tech Academy* <br /> 
-**Formações em Front-end** - *Alura* <br /> 
-**Formações em Programação** - *Alura* <br /> 
-**CC50: Introdução à Ciência da Computação - O Curso de Harvard, no Brasil** -  *Fundação Estudar* <br /> 
-**Programação para iniciantes**– *Alura* <br /> 
-**Bootcamp CodGirlsSantander** – *Dio*  <br /> 
-
-<h4>FORMAÇÃO ACADÊMICA</h4> 
-
-**Engenharia Civil**  – *Universidade São Francisco (Usf)*<br /> 
-
-**IDIOMAS**
-
-**Inglês** – Intermediário
-
  
 <h3 align="center"> Habilidades e Competências </h3>
 
