@@ -11,7 +11,7 @@ Compute Engine | Looker Studio
 
   <h3 align="center"> Estudando e aprofundando </h3>
 AWS | Azure | Google Cloud Plataform (GCP) |Java | Spark | SQL | NoSQL | ETL | Big Query 
-Compute Engine | Looker Studio | PowerBi | HTML | CSS | JavaScript
+Compute Engine | Looker Studio | PowerBi | HTML | CSS | JavaScript | C | 
 
 <br> 
 <br>
