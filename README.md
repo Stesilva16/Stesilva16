@@ -1,17 +1,15 @@
 <h2 align="center">Hi, Stefany Gracy aqui!  🖖🏻 </h2>
 
-Sou uma pessoa curiosa desde pequena que desenvolveu sua paixão por aprender. <br /> 
-Me formei em Engenharia Civil, mas minha paixão pela tecnologia me levou a seguir carreira na área.
+
+Sou uma pessoa curiosa desde pequena, que desenvolveu uma paixão por aprender.<br> Atualmente, estou cursando a faculdade de Ciência de Dados, após ter me formado em Engenharia Civil. O fascínio e a curiosidade pela tecnologia me levaram a escolher essa nova área de estudo
  
-<h3 align="center"> Habilidades e Competências </h3>
-
-Google Cloud Plataform (GCP) | Python | Pandas | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query 
-Compute Engine | Looker Studio
+<h3 align="center"> Curiosidades em Desenvolvimento </h3>
+Python | Pandas | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query | Google Cloud Plataform (GCP) | PowerBI | Git | Marhine Learning | IA
 
 
-  <h3 align="center"> Estudando e aprofundando </h3>
-AWS | Azure | Google Cloud Plataform (GCP) |Java | Spark | SQL | NoSQL | ETL | Big Query 
-Compute Engine | Looker Studio | PowerBi | HTML | CSS | JavaScript | C | 
+
+<h3 align="center"> Breve conhecimento </h3>
+AWS | Azure | Java | JavaScript | CSS | C |Compute Engine | Looker Studio 
 
 <br> 
 <br>
@@ -59,5 +57,4 @@ Compute Engine | Looker Studio | PowerBi | HTML | CSS | JavaScript | C |
   
 ##
   
- ![Snake animation](https://github.com/Stesilva16/Stesilva16/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
