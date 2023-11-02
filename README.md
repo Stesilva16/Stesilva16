@@ -1,23 +1,19 @@
 
 <p align="center">
-  <img src="https://github.com/Stesilva16/Stesilva16/blob/main/.github/workflows/Welcome-to-my-universe!%20(1).gif" width="700" height="250">
+  <img src="https://github.com/Stesilva16/Stesilva16/blob/main/.github/workflows/Welcome-to-my-universe!%20(1).gif" width="500" height="200">
 </p>
 <br>
 <h2 align="center">Hi, Stefany Gracy aqui! (: </h2>
 
-<div align="center">
 Sou uma pessoa curiosa desde pequena, que desenvolveu uma paixão por aprender.<br> Atualmente, estou cursando a faculdade de Ciência de Dados, após ter me formado em Engenharia Civil.<br> O fascínio e a curiosidade pela tecnologia me levaram a escolher essa nova área de estudo.
-</div>
+
 
 <h3 align="center"> Curiosidades em Desenvolvimento </h3>
-<div align="center">
- Python | Pandas | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query | Google Cloud Plataform (GCP) | PowerBI | Git | Marhine Learning | IA
-</div>
+Python | Pandas | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query | Google Cloud Plataform (GCP) | PowerBI | Git | Marhine Learning | IA
 
 <h3 align="center"> Breve conhecimento </h3>
-<div align="center">
- AWS | Azure | Java | JavaScript | CSS | C |Compute Engine | Looker Studio 
-</div>
+AWS | Azure | Java | JavaScript | CSS | C |Compute Engine | Looker Studio 
+
 
 <br> 
 <br>
