@@ -5,7 +5,7 @@
 <br>
 <h2 align="center">Hi, Stefany Gracy aqui! (: </h2>
 
-Sou uma pessoa curiosa desde pequena, que desenvolveu uma paixão por aprender.<br> Atualmente, estou cursando a faculdade de Ciência de Dados, após ter me formado em Engenharia Civil.<br> O fascínio e a curiosidade pela tecnologia me levaram a escolher essa nova área de estudo.
+<p align="center">Sou uma pessoa curiosa desde pequena, que desenvolveu uma paixão por aprender.<br> Atualmente, estou cursando a faculdade de Ciência de Dados, após ter me formado em Engenharia Civil.<br> O fascínio e a curiosidade pela tecnologia me levaram a escolher essa nova área de estudo.</p>
 
 
 <h3 align="center"> Curiosidades em Desenvolvimento </h3>
