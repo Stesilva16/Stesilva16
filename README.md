@@ -14,10 +14,10 @@
   Python | Pandas | NumPy | Matplotlib | Seaborn | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query | Google Cloud Plataform (GCP) | PowerBI | Looker Studio | Tableau | Git | Machine Learning | IA
 </p>
 
-<h3 align="center">Breve Conhecimento</h3>
+<h3 align="center">Aventuras</h3>
 
 <p align="center">
-  AWS | Azure | Java | JavaScript | CSS | C | Shell | Compute Engine 
+  AWS | Azure | Java | JavaScript | CSS | C | Shell | Terminal | Compute Engine 
 </p>
 
 <br> 
