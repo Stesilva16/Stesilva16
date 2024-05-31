@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://github.com/Stesilva16/Stesilva16/blob/main/.github/workflows/Welcome-to-my-universe!%20(1).gif" width="500" height="200">
-</p>
+<!-- p align="center">
+//  <img src="https://github.com/Stesilva16/Stesilva16/blob/main/.github/workflows/Welcome-to-my-universe!%20(1).gif" width="500" height="200">
+</p-->
 <br>
 <h2 align="center">Hi, Stefany Gracy aqui! (: </h2>
 <p align="center">
